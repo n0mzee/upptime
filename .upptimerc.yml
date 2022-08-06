@@ -7,8 +7,8 @@ sites:
     url: https://www.google.com
   - name: Wikipedia
     url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
+  - name: 7timer Weatherforcast API
+    url: http://www.7timer.info/bin/api.pl?lon=113.17&lat=23.09&product=astro&output=json
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
 
